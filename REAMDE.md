@@ -1,6 +1,6 @@
 "README"
 
-Espero que les guste mi pequeño e insignificante programa hecho en Python3 para descifrar textos.
+Espero que les guste mi pequeño e insignificante script hecho en Python3 para cifrar y descifrar textos.
 
 - Asgignación de permisos:
 
@@ -11,6 +11,5 @@ Espero que les guste mi pequeño e insignificante programa hecho en Python3 para
     python3 C0D3C.py
 
     
-# By AloNE
-# Copytight 2021
-# Derechos del Autor
+# AloNE #LegendsCompany
+# Software Libre
